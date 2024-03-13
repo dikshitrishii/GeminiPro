@@ -1,0 +1,3 @@
+In order to execute this, use your API key by creating a new .exe file and store API key inside it named GOOGLE_API_KEY.
+Install all the requirements needed by runing [pip install -r requirements.txt] in terminal.
+It is recommended to create a new conda environment with python version 3.10
